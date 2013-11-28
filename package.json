@@ -1,0 +1,24 @@
+{
+  "name": "console.loge",
+  "version": "0.0.0",
+  "description": "wow. such console. much loge. wow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Techwraith/console.loge.git"
+  },
+  "keywords": [
+    "doge",
+    "wow",
+    "much",
+    "such",
+    "loge"
+  ],
+  "author": "techwraith",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "7161d991a29f0d84661209b9ae9263ae8a87cab6"
+}
